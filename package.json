@@ -1,0 +1,22 @@
+{
+  "name": "learning-javascript",
+  "version": "1.0.0",
+  "description": "Book by Shirley Powers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ewerton12F/Learning-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ewerton12F/Learning-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Ewerton12F/Learning-JavaScript#readme",
+  "dependencies": {
+    "underscore": "^1.10.2"
+  }
+}
